@@ -1,0 +1,79 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+ai/ 
+
+# IDEs/editors
+.vscode/
+.idea/
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks checkpoints (if used)
+.ipynb_checkpoints/
+
+# Logs and runtime
+*.log
+logs/
+*.pid
+
+# Environment variables
+.env
+.env.*
+secrets.env
+config.env
+
+# Cache
+*.cache
+.cache/
+__pypackages__/
+
+# Test/coverage tools
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+.cache/
+.noseids
+.pytest_cache/
+.tox/
+
+# LiveKit & Voice Assistant Artifacts
+livekit_credentials.json
+audio_recordings/
+transcripts/
+temp_audio/
+*.wav
+*.mp3
+*.ogg
+
+# Compiled extensions
+*.so
+
+# Mac/Linux system files
+*.bak
+*.tmp
